@@ -1,0 +1,11 @@
+# 编译产物
+*.out
+*.o
+*.exe
+*.dSYM/
+
+# VS Code 配置
+.vscode/
+
+# macOS 系统文件
+.DS_Store
