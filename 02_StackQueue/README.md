@@ -34,4 +34,6 @@
 - [1.1 栈](1.1_Stack.md)
 - [1.2 队列](1.2_Queue.md)
 
-代码在 [`code/`](code/) 目录下：`SeqStack.c`、`LinkedStack.c`（栈）；`SeqQueue.c`、`LinkedQueue.c`、`CirQueue.c`（队列）。
+代码在 [`code/`](code/) 目录下（教学版）：`SeqStack.c`、`LinkedStack.c`（栈）；`SeqQueue.c`、`LinkedQueue.c`、`CirQueue.c`（队列）。
+
+工程版（`.h/.c` 分离 + `const` + 测试 + Makefile）在 [`src/`](src/) 目录下，目前已完成循环队列 [`src/cirqueue/`](src/cirqueue/)，作为后续结构的样板。
