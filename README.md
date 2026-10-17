@@ -11,8 +11,8 @@
 |------|------|------|
 | 01 线性表 | `01_LinearList` | ✅ 已完成 |
 | 02 栈和队列 | `02_StackQueue` | ✅ 已完成 |
-| 03 串 | `03_String` | ⬜ 待开始 |
-| 04 数组和广义表 | `04_ArrayAndGeneralizedList` | ⬜ 待开始 |
+| 03 串 | `03_String` | 📝 笔记完成 |
+| 04 数组和广义表 | `04_ArrayAndGeneralizedList` | 📝 笔记完成 |
 | 05 树与二叉树 | `05_Tree` | ⬜ 待开始 |
 | 06 图 | `06_Graph` | ⬜ 待开始 |
 | 07 查找 | `07_Search` | ⬜ 待开始 |
